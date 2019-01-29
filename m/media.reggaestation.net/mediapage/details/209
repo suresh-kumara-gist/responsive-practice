@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head profile="http://www.w3.org/1999/xhtml/vocab">
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://media.reggaestation.net/sites/all/themes/aps/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <title>Streaming Rastafari Videos | Documentary Video Source of Progressive Vision | Broadcast of Righteous Reggae Music Worldwide</title>
+<meta name="description" content="Rasta Reggae Media Network® documenting justice and paths to adjudicate upon injustice, including organized patterns of injudicious actions.  Streaming Video Documentaries and Rasta Reggae Videos with denoted theme of - 'Paths towards Reconciliation, Freedom, Equality, and Integrity', after millennia of War Crimes, Skirmishes, Genocide, and Wanton Injustice.  Join the movement towards Global Development, Legal Parity, Sustained Ethical Order, and Abscondment from Evil.  Know Derivations of Justice, Interpolations of Betterment, Extrapolations of Endearment and Peace.  View the library of Documentaries, carefully selected from common open sources, to comprehend judicious manner and orders of Democracy, Endearment, and Morality as known per the evolution of progress - chartered in the United Nations Humans Rights Declarations.">
+
+<meta name="keywords" content="Rastafarian Reggae, Rastafari, Rastafari Makonnen, United Nations Human Rights Charter, United States Constitution, United States Bill of Rights, Reggae Music, Freedom from Slavery, Freedom from Genocide, Freedom from Injustice, Magna Carta"> 
+
+
+	 <style>@import url("http://media.reggaestation.net/modules/system/system.base.css?nf9c4e");</style>
+<style>@import url("http://media.reggaestation.net/sites/all/modules/date/date_api/date.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nf9c4e");
+@import url("http://media.reggaestation.net/modules/field/theme/field.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/modules/mollom/mollom.css?nf9c4e");
+@import url("http://media.reggaestation.net/modules/node/node.css?nf9c4e");
+@import url("http://media.reggaestation.net/modules/search/search.css?nf9c4e");
+@import url("http://media.reggaestation.net/modules/user/user.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/modules/views/css/views.css?nf9c4e");</style>
+<style>@import url("http://media.reggaestation.net/sites/all/modules/ckeditor/ckeditor.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/modules/ctools/css/ctools.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/modules/panels/css/panels.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/modules/video_library_web/css/media.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/modules/video_library_web/css/media-details.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/modules/video_library_web/css/video-js.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/modules/video_library_web/skin/minimalist.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/modules/nice_menus/css/nice_menus.css?nf9c4e");
+@import url("http://media.reggaestation.net/sites/all/themes/gsdefault/css/nice-menu.css?nf9c4e");</style>
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" media="all" />
+<style>@import url("http://media.reggaestation.net/sites/all/themes/aps/js/tick/css/tick.css?nf9c4e");</style>
+<style>@import url("http://media.reggaestation.net/sites/all/themes/aps/css/styles.css?nf9c4e");</style>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="/sites/all/themes/aps/js/html5shiv.js"></script>
+    <script src="/sites/all/themes/aps/js/respond.min.js"></script>
+    <![endif]-->
+    <script src="http://media.reggaestation.net/misc/jquery.js?v=1.4.4"></script>
+<script src="http://media.reggaestation.net/misc/jquery.once.js?v=1.2"></script>
+<script src="http://media.reggaestation.net/misc/drupal.js?nf9c4e"></script>
+<script src="http://media.reggaestation.net/sites/all/modules/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="http://media.reggaestation.net/sites/all/modules/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="http://media.reggaestation.net/sites/all/modules/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="http://media.reggaestation.net/sites/all/modules/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="http://media.reggaestation.net/sites/all/modules/panels/js/panels.js?nf9c4e"></script>
+<script src="http://media.reggaestation.net/sites/all/modules/video_library_web/js/myscript.js?nf9c4e"></script>
+<script src="http://media.reggaestation.net/sites/all/modules/video_library_web/js/video.js?nf9c4e"></script>
+<script src="http://media.reggaestation.net/sites/all/modules/linkit/editors/ckeditor/linkitDialog.js?v=7.3"></script>
+<script src="http://media.reggaestation.net/sites/all/modules/google_analytics/googleanalytics.js?nf9c4e"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-50690704-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://media.reggaestation.net/sites/all/themes/aps/js/script.js?nf9c4e"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"aps","theme_token":"OHGYnkxaZzVaAo-AFnP8jUg_XP3XJe8xwG00w8PnlwM","js":{"sites\/all\/themes\/aps\/js\/tick\/js\/libs\/jquery.easing.js":1,"sites\/all\/themes\/aps\/js\/tick\/js\/tick.js":1,"sites\/all\/themes\/aps\/js\/roundabout\/jquery.roundabout.min.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/video_library_web\/js\/myscript.js":1,"sites\/all\/modules\/video_library_web\/js\/video.js":1,"sites\/all\/modules\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/aps\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/video_library_web\/css\/media.css":1,"sites\/all\/modules\/video_library_web\/css\/media-details.css":1,"sites\/all\/modules\/video_library_web\/css\/video-js.css":1,"sites\/all\/modules\/video_library_web\/skin\/minimalist.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/gsdefault\/css\/nice-menu.css":1,"\/\/netdna.bootstrapcdn.com\/font-awesome\/4.0.3\/css\/font-awesome.css":1,"sites\/all\/themes\/aps\/js\/tick\/css\/tick.css":1,"sites\/all\/themes\/aps\/system.menus.css":1,"sites\/all\/themes\/aps\/system.messages.css":1,"sites\/all\/themes\/aps\/system.theme.css":1,"sites\/all\/themes\/aps\/css\/styles.css":1}},"nice_menus_options":{"delay":"800","speed":"slow"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});</script>
+  </head>
+    <body class="html not-front not-logged-in no-sidebars page-mediapage page-mediapage-details page-mediapage-details- page-mediapage-details-209 section-mediapage fixed-header"  data-spy="scroll" data-target=".navbar">
+    <div id="skip-link">
+      <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    </div>
+        
+<!--[if lt IE 7]>
+
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script>
+
+<![endif]-->
+
+
+
+<!--[if lt IE 8]>
+
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+
+<![endif]-->
+
+<!--[if lte IE 8]>
+
+        <script>
+
+          document.createElement('header');
+
+           document.createElement('section');
+
+           document.createElement('footer');
+
+           document.createElement('article');
+
+        </script>
+
+      <![endif]-->
+
+<div id="page">
+
+  <header class="header" id="header" role="banner">
+<script>
+   jQuery(document).ready(function($) {
+    // Check if the filter exists
+    if($('.views-exposed-form select').length){
+        // Your change function
+        $('.views-exposed-form select').change(function() {
+            // Submit the form
+            $(this).parents('form').submit();
+        });
+    }
+});
+</script>
+<script type="text/javascript">
+  document.getElementById('leaveblank').className = "noshow";
+</script>
+    <div class="wrap clearfix">
+
+      
+
+
+    
+
+        <a href="http://media.reggaestation.net/" target="_self"><div class="header__name-and-slogan" id="name-and-slogan">            <div class="header__site-slogan" id="site-slogan"></div>        </div></a>
+
+
+      
+    </div><!-- .wrap -->
+
+
+
+  </header>
+
+
+
+  
+
+
+  
+
+
+  <div id="main">
+
+    <div class="wrap">
+
+      <div id="content" class="column" role="main">
+
+        
+        
+        <a id="main-content"></a>
+
+        
+        
+          
+            <h1 class="page__title title" id="page-title">Media Page Details</h1>
+
+          
+        
+        
+        
+        
+        
+        
+        
+
+
+<style>
+.wrap{margin:0 !important;}
+.wrap p { clear:both;}
+.wrap.clearfix { margin-left: auto !important;  margin-right: auto !important; margin-top: -4px !important; max-width: 960px !important;}
+.video-box img{max-width:none !important;padding:0 !important;}
+#main{margin-top:0;}
+img{ padding:0 !important;}
+#meet-platform{ display:none;}
+div#vid_cmt h4 {margin: 0px;}
+div#vid_cmt {border: 1px solid rgba(9, 9, 9, 0.23);}
+</style>
+<script type="text/javascript" src="http://media.reggaestation.net/sites/all/modules/video_library_web/js/jquery-1.8.2.min.js"></script>
+
+<script type="text/javascript" src="http://media.reggaestation.net/sites/all/modules/video_library_web/js/flowplayer.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {    
+//$("#flwpl").css("display",'block');
+	//$(".flowplayer").hide();	
+	$(".ply").click(function(e) {
+        
+		$("#flwpl").css("display",'block');
+		$("#overlap-screen").hide();
+		
+		/*if($('iframe').attr('height') != 'undefined')
+		{
+			videoUrl = $('#loadVideo').attr("data-video-src");
+			alert(videoUrl);
+			$("iframe").attr("src", videoUrl);
+		}
+		else
+		{	
+			$(".fp-ui").click();
+		}*/
+		
+    });
+	
+});
+
+</script>
+
+
+		<div id="gradientVideo"></div><div class="banner-area">
+            <div class="wrapper">
+            
+                <div id="overlap-screen">
+                    <div id="banner-bg-image">
+                        
+                        <a class="ply" href="#"><img class="button" id="play-button" src="http://media.reggaestation.net/sites/all/modules/video_library_web/images/playicon.png" /></a>
+                        
+                        <img class="bIMg" src="http://media.reggaestation.net/sites/default/files/video_images/GARVEY%20GRANDSON_4.png" alt="" />
+                        
+                        <div id="banner-overlap-text">
+                            <h2>Repatriation Talks..</h2>
+                            <h3>Repatriation Talks by Black Panthers :": Rastafari..</h3>
+                        </div>
+                      
+                       
+                    </div>
+                </div>
+                
+                <div id="player">
+                    <div id="flwpl">
+                    <button id="loadVideo" data-video-src="httphttps://www.youtube.com/embed/rymlwNHufUI?rel=0&autoplay=1" style="display:none;">Load video</button><iframe width="1000" height="399" src="https://www.youtube.com/embed/rymlwNHufUI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>                    </div>
+                </div>
+                
+            </div>
+	</div>
+
+
+			 <div id="mainOverlay"><div class="content-area">
+	
+    <div class="content-area-wrraper">
+    
+    	 <div class="content-area-left">Views: 26<div id="donationHub"><div id="spanPayPal">
+<a class="rgReview" href="http://www.guru.com/freelancers/william-baafi" target="_new">BUY APP NOW</a>
+</div></div>
+                    <h2 style="  background:none !important; padding:0px !important;">Documentations towards progression of Global Security</h2>
+                    <div class="line"></div>
+<script type="text/javascript">
+   
+$(document).ready(function(){
+  $("#play-button").click(function(){
+   $("iframe").addClass("intro");
+   $(".intro").attr("id","video");
+   });
+});
+ 
+  // https://developers.google.com/youtube/iframe_api_reference
+
+        // global variable for the player
+        var player;
+
+        // this function gets called when API is ready to use
+        function onYouTubePlayerAPIReady() {
+          // create the global player from the specific iframe (#video)
+          player = new YT.Player('video', {
+            events: {
+              // call this function when player is ready to use
+              'onReady': onPlayerReady
+            }
+          });
+        }
+
+        function onPlayerReady(event) {
+          
+          // bind events
+          var playButton = document.getElementById("play-button");
+          playButton.addEventListener("click", function() {
+            player.playVideo();
+          });
+          
+        }
+
+        // Inject YouTube API script
+        var tag = document.createElement('script');
+        tag.src = "//www.youtube.com/iframe_api";
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+</script>
+
+    
+                    <p>Repatriation Talks by Black Panthers :": Rastafari United</p>
+                    <h2 style=" background:none !important; padding:0px !important;">Relevant Rastafari Intelligence</h2>
+                    <div class="line"></div>
+                    <p>Rastafarians link with Black Panthers in Unification Accords of U.N.I.A. </p>
+                    
+                     <br><span>Released On: </span>8/21/2018					            <div class="inner-page-bottom" style="margin-bottom:100px;"></div>
+         </div>
+	</div>
+</div>
+</div>
+
+        
+      </div>
+
+
+
+    
+
+
+    
+
+
+    </div><!-- .wrap -->
+
+  </div>
+
+
+
+  
+
+
+  
+    <div id="meet-platform">
+
+      <div class="wrap">
+      
+      <div id="platformResponsive">
+
+          <div class="region region-meet-platform">
+    <div id="block-views-footer-content-block" class="block block-views first odd">
+
+      
+  <div class="view view-footer-content view-id-footer_content view-display-id-block view-dom-id-a9ba27e4f7831831747fd9da059bec29">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-page-footer">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-block-12" class="block block-block homepage-platform last even">
+
+      
+  <div id="block-views-footer-content-block-2">
+<div class="platform-image">
+<p>
+			<img alt="" src="/sites/default/files/iPad-Heart_450.png" /></p>
+</div>
+<div class="platform-description">
+<h2>
+			Lifelong Learning</h2>
+<p>		Promulgate the legal mission of Rastafari, regaining the human rights of Africans throughout the Diaspora</p></div>
+</div>
+<p>
+	 </p>
+
+</div>
+  </div>
+        
+      </div>  
+
+      </div><!-- .wrap -->
+
+    </div><!-- #meet-platform -->
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+</div>
+
+
+
+	
+
+
+  <div class="region region-bottom">
+    <div id="block-block-21" class="block block-block footer phone first odd">
+
+      
+  <p class="phone-label">
+	Contact -</p>
+<p class="phone-label">
+	Email: <a href="mailto:rasbaafi@gmail.com">rasbaafi@gmail.com</a></p>
+
+</div>
+<div id="block-block-22" class="block block-block footer email even">
+
+      
+  <p>
+	<a href="www.rastastation.com">r</a><a href="rastafarianreggae.com">astafarianreggae.com</a></p>
+<p>
+	<a href="reggaestation.net">reggaestation.net</a></p>
+<p></p>
+<p>
+	 </p>
+
+</div>
+<div id="block-block-23" class="block block-block footer address odd">
+
+      
+  <p>
+	Rastafari NGO</p>
+<p>
+	Based in Boston</p>
+<p>
+	 </p>
+
+</div>
+<div id="block-block-24" class="block block-block footer deg even">
+
+      
+  <p>
+	Media Application </p>
+<p>
+	c/o Basis 2.0</p>
+
+</div>
+<div id="block-block-25" class="block block-block copyright last odd">
+
+      
+  <p>
+	©2016 Mpatapo Educational Media</p>
+
+</div>
+  </div>
+
+
+
+<!-- footer popup -->
+
+
+
+
+
+<script src="http://media.rastastation.com/sites/all/themes/aps/js/roundabout/jquery.roundabout.js"></script>
+
+
+
+<script type="text/javascript" src="http://media.rastastation.com/sites/all/themes/aps/js/jquery.js"></script>
+
+
+
+<script type="text/javascript" src="http://media.rastastation.com/scripts/popup.js"></script>
+
+<!--<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>-->
+
+  
+
+<script type="text/javascript">
+
+//$('.error_cls').hide();	
+
+var windowWidth = $(window).width();
+
+
+
+$(window).resize(function() {
+
+if(windowWidth != $(window).width()){
+
+location.reload();
+
+return;
+
+}
+
+});
+
+jQuery(document).ready(function($){
+
+$('.error_cls').hide();	
+
+		$("#footerEmailIcons").click(function(){
+
+		centerPopup('#contact-form', top.document);
+
+		loadPopup('#contact-form', top.document);
+
+		return false;
+
+		});
+
+			
+
+		$("#footerEmailIcon").click(function(){
+
+		centerPopup('#contact-form', top.document);
+
+		loadPopup('#contact-form', top.document);
+
+		return false;
+
+		});
+
+	$('#close-popup').click(function(){
+
+		disablePopup('#contact-form');	
+
+	});
+
+		
+
+		$("#formFeedbackId").submit(function() { 
+
+    	
+
+        // Specify the validation rules
+
+			var formFeedbackName = $("#mailFromName").val();
+
+			var companyname = $("#mailCompanyName").val();			
+
+			var formFeedbackSubject = $("#mailSubject").val();
+
+			var formFeedbackEmail = $("#mailFrom").val();
+
+						
+
+			var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+
+			$('.error_cls').hide();	
+
+			
+
+			if(formFeedbackName == '')
+
+			{
+
+				$('#error_mailFromName').text('Please Enter Name!');
+
+				$('#error_mailFromName').fadeIn(400).show();
+
+				$("#mailFromName").focus();
+
+				return false;
+
+			}
+
+			
+
+			if( formFeedbackName.indexOf('www.') >= 0){
+
+  				$('#error_mailFromName').text('Please Enter Valid Name!');
+
+				$('#error_mailFromName').fadeIn(400).show();
+
+				$("#mailFromName").focus();
+
+				return false;
+
+			}
+
+			
+
+			if( formFeedbackName.indexOf('http://') >= 0){
+
+			  	$('#error_mailFromName').text('Please Enter Valid Name!');
+
+				$('#error_mailFromName').fadeIn(400).show();
+
+				$("#mailFromName").focus();
+
+				return false;
+
+			}
+
+			if(companyname == '')
+
+			{
+
+				$('#error_mailCompanyName').text('Please Enter Company Name!');
+
+				$('#error_mailCompanyName').fadeIn(400).show();
+
+				$("#mailCompanyName").focus();
+
+				return false;
+
+			}
+
+			if( companyname.indexOf('www.') >= 0){ 
+
+  				$('#error_mailCompanyName').text('Please Enter Valid Company Name!');
+
+				$('#error_mailCompanyName').fadeIn(400).show();
+
+				$("#mailCompanyName").focus();
+
+				return false;
+
+			}
+
+			
+
+			if( companyname.indexOf('http://') >= 0){
+
+			  	$('#error_mailCompanyName').text('Please Enter Valid Company Name!');
+
+				$('#error_mailCompanyName').fadeIn(400).show();
+
+				$("#mailCompanyName").focus();
+
+				return false;
+
+			}
+
+				
+
+			if(formFeedbackSubject == '')
+
+			{
+
+				$('#error_mailSubject').text('Please Enter Subject!');
+
+				$('#error_mailSubject').fadeIn(400).show();
+
+				$("#mailSubject").focus();
+
+				return false;
+
+			}
+
+			if( formFeedbackSubject.indexOf('www.') >= 0){
+
+  				$('#error_mailSubject').text('Please Enter Valid Subject Name!');
+
+				$('#error_mailSubject').fadeIn(400).show();
+
+				$("#mailSubject").focus();
+
+				return false;
+
+			}
+
+			
+
+			if( formFeedbackSubject.indexOf('http://') >= 0){
+
+			  	$('#error_mailSubject').text('Please Enter Valid Subject Name!');
+
+				$('#error_mailSubject').fadeIn(400).show();
+
+				$("#mailSubject").focus();
+
+				return false;
+
+			}	
+
+			if(formFeedbackEmail == '')
+
+			{
+
+				$('#error_mailFrom').text('Please Enter Email!');
+
+				$('#error_mailFrom').fadeIn(400).show();
+
+				$("#mailFrom").focus();
+
+				return false;
+
+			}	
+
+			
+
+			if(!emailReg.test(formFeedbackEmail))
+
+			{
+
+				$('#error_mailFrom').text('Please Enter Valid Email!');
+
+				$('#error_mailFrom').fadeIn(400).show();
+
+				$("#mailFrom").focus();
+
+				return false;
+
+			}			
+
+			});
+
+		
+
+	});
+
+</script>
+
+
+
+<script language='JavaScript' type="text/javascript" >
+
+
+
+
+
+
+
+var ck_email = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i 
+
+
+
+
+
+function reportErrors(errors){
+
+ var msg = "Please Enter The Following Valid Data...\n";
+
+ for (var i = 0; i<errors.length; i++) {
+
+  var numError = i + 1;
+
+  msg += "\n" + numError + ". " + errors[i];
+
+ }
+
+ alert(msg);
+
+}
+
+
+
+
+
+function validateFormOnSubmit(frm)
+
+{
+
+var formFeedbackName = frm.mailFromName.value; 
+
+var companyname = frm.mailCompanyName.value; 
+
+var formFeedbackSubject = frm.mailSubject.value;
+
+var formFeedbackEmail = frm.mailFrom.value;
+
+
+
+var ck_email = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+
+var errors = [];
+
+
+
+ if (formFeedbackName=="") {
+
+  errors[errors.length] = "Please Enter valid Name.";
+
+ }
+
+ 
+
+ if (companyname=="") {
+
+  errors[errors.length] = "Please Enter valid Company Name.";
+
+ }
+
+ 
+
+ if (formFeedbackSubject=="") {
+
+  errors[errors.length] = "Please Enter valid Subject.";
+
+ } 
+
+  if (formFeedbackEmail=="") {
+
+  errors[errors.length] = "Please Enter Email.";
+
+ }  
+
+  if (!ck_email.test(formFeedbackEmail)) {
+
+  errors[errors.length] = "Please Enter valid  Email.";
+
+ }
+
+ 
+
+  if (errors.length > 0) {
+
+  reportErrors(errors);
+
+  return false;
+
+ }
+
+ 
+
+ return true;
+
+ 
+
+}
+
+
+
+
+
+</script>
+
+
+
+
+
+<div id="contact-form" class="pop_up">
+
+
+
+
+
+	<form name="formFeedback"  action="/index.php" id="formFeedbackId" method="POST">
+
+
+
+  			<input type="hidden" name="csrf" value="3c06c33780230a08ef9d4d3545b41db9428f69c2" />
+
+            <input type="hidden" name="required" value="$key,$formFeedbackName,$companyname,$formFeedbackAddress,$formFeedbackSubject,$formFeedbackEmail,$formFeedbackMessage">
+
+    	<label>Name
+
+      	<input type="text" name="mailFromName" required="required" id="mailFromName"  value="" />
+
+      	<div id="error_mailFromName" class="error_cls"></div>
+
+    	</label>
+
+    	<label>Health System or Company Name
+
+      	<input type="text" name="mailCompanyName" required="required" id="mailCompanyName"  value="" />
+
+      	<div id="error_mailCompanyName" class="error_cls"></div>
+
+      	</label>
+
+		
+
+		<label>Subject
+
+      	<input type="text" name="mailSubject" value="Request a Webinar Demo" id="mailSubject"  required="required"/>
+
+      	<div id="error_mailSubject" class="error_cls"></div>
+
+      	</label>
+
+      	<label>
+
+      	Email
+
+		<input type="email" name="mailFrom" value=""  id="mailFrom" required="required" />
+
+      	<div id="error_mailFrom" class="error_cls"></div>
+
+      	</label>
+
+        
+
+      	<label>
+
+      	Message
+
+      	<textarea name="mailBody" cols="25" rows="5" id="formFeedbackMessage" ></textarea>
+
+		
+
+      	
+
+     	</label>   
+
+
+      
+    
+		
+        	<input type="submit" name="formFeedback" id="submit" class="submit1" value="Submit" />
+           
+        <input type="reset" value="Reset" class="reset1">
+
+
+		<br />
+
+    	</label>
+
+  		</form>
+
+        <img src="sites/all/themes/aps/images/APS_LOGO.png" id="logo-popup">
+
+        <img src="sites/all/themes/aps/images/close.png" id="close-popup">
+
+</div>
+
+<div id="popup-backgroundPopup"></div>
+
+
+    <script src="http://media.reggaestation.net/sites/all/themes/aps/js/tick/js/libs/jquery.easing.js?nf9c4e"></script>
+<script src="http://media.reggaestation.net/sites/all/themes/aps/js/tick/js/tick.js?nf9c4e"></script>
+<script src="http://media.reggaestation.net/sites/all/themes/aps/js/roundabout/jquery.roundabout.min.js?nf9c4e"></script>
+  </body>
+</html>

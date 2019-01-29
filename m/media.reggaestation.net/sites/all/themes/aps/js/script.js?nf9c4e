@@ -1,0 +1,99 @@
+	/**
+	 * @file
+	 * A JavaScript file for the theme.
+	 *
+	 * In order for this JavaScript to be loaded on pages, see the instructions in
+	 * the README.txt next to this file.
+	 */
+
+	// JavaScript should be made compatible with libraries other than jQuery by
+	// wrapping it with an 'anonymous closure'. See:
+	// - https://drupal.org/node/1446420
+	// - http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth
+	(function ($, Drupal, window, document, undefined) {
+				//---------------------------
+				//      COURSE TABS
+				//---------------------------
+		$( document ).ready(function() {
+			$('div.tab-content').hide();
+			$('div.overview').show();
+
+			$('.tab-content').each(function() { //hiding tabs that have no content
+				if($(this).children('.course-content-field').length == 0) {
+					var empty = $(this).attr('class').split(' ')[0];
+					$('li.' + empty).hide();
+				}
+			});
+
+			$('ul.course-tabs').children('li').click(function() {
+				var liClass = $(this).attr('class');
+				$(this)
+				.addClass('active')
+				.siblings()
+				.removeClass('active');
+				$('div.'+liClass)
+				.show()
+				.addClass('active')
+				.siblings('div')
+				.hide()
+				.removeClass('active');
+			});
+		});
+
+				//---------------------------
+				//     END COURSE TABS
+				//---------------------------
+
+	// To understand behaviors, see https://drupal.org/node/756722#behaviors
+	Drupal.behaviors.my_custom_behavior = {
+		attach: function(context, settings) {
+
+			var carouselUpdate = function() {
+				if ($(window).width() > 960) {
+					$('.homepage-features .item-list ul').roundabout({
+						minOpacity: 0.8,
+						//minScale: 0.8,
+						minScale: 0.9,
+						//tilt:-1.0,
+						btnNext: '.homepage-features .next',
+						btnPrev: '.homepage-features .back',
+						responsive: true
+					});
+				// set up the animation fades
+					$('.homepage-features').bind('animationStart',function() { 
+						$(this).find('.block-title, .view-header').fadeOut(100);
+					});
+				// set up the animation fades
+					$('.homepage-features').bind('animationEnd',function() {
+						$(this).find('.block-title, .view-header').fadeIn();
+					});
+					$('.item-list ul').roundabout('relayoutChildren');
+				} else {  // remove the styles so they revert to being controlled by the css
+					$('.homepage-features').find('.block-title, .view-header').attr('style','');
+					$('.roundabout-holder, .roundabout-moveable-item, .roundabout-in-focus').attr('style','');
+					$('.homepage-features .item-list ul').removeClass('roundabout-holder');
+					$('.roundabout-moveable-item').removeClass('roundabout-moveable-item');
+					$('.roundabout-in-focus').removeClass('roundabout-in-focus');
+				}
+			};
+		$( document ).ready(function() {
+			$( '#navigation .menu-name-main-menu > ul.menu' ).before( "<input type='checkbox' id='button'><label for='button' onclick></label>" );
+			if ($('body').hasClass('front')) {
+				carouselUpdate();
+				//$(window).resize(carouselUpdate);
+			};
+
+		});
+		// $( '.tick' ).ticker({
+		// 	delay       : 1000,
+		// 	separators  : true
+		// });
+	}
+	};
+
+
+	})(jQuery, Drupal, this, this.document);
+
+
+
+

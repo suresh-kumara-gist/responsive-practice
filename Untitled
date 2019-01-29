@@ -1,0 +1,25 @@
+Opt for flexible grids for the layout, use flexible media (images, video, iframes),
+and apply media queries to update these measurements to best arrange content on any viewport.
+
+Responsive images
+Improving performance
+Responsive typography
+Media queries in JavaScript
+Progressive Enhancement
+Layout
+
+
+advanced RWD techniques. ?
+
+
+Fluid media: width: 100%; , max-width: 100%;
+
+
+    mv "${i}" "${m}"
+
+
+
+why div nav and sections
+
+
+https://www.rapidtables.com/web/tools/svg-viewer-editor.html

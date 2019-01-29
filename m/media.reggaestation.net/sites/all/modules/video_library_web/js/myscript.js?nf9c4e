@@ -1,0 +1,85 @@
+jQuery(document).ready(function (){					
+/*jQuery("#edit-video-filename1-ajax-wrapper").css("display", "none");
+jQuery("#edit-video-is-file-1").click();*/
+	if((jQuery('input[name=video_is_file]:radio:checked').val())==0)
+	{
+	jQuery(".form-item-files-video-filename1").hide();
+	jQuery(".form-item-files-video-filename2").hide();
+	jQuery(".form-item-files-video-filename3").hide();
+	jQuery(".form-item-files-video-big-img").show();
+	jQuery(".form-item-files-video-thumb-img").show();
+	jQuery(".form-item-video-duration").show();
+	jQuery(".form-item-files-video-infographic-img").hide();
+	jQuery(".form-item-files-video-infographic-pdf").hide();
+	
+	jQuery(".form-item-video-embed-code").show();
+	}
+	if((jQuery('input[name=video_is_file]:radio:checked').val())==1)
+	{
+	jQuery(".form-item-files-video-filename1").show();
+	jQuery(".form-item-files-video-filename2").show();
+	jQuery(".form-item-files-video-filename3").show();
+	jQuery(".form-item-files-video-big-img").show();
+	jQuery(".form-item-files-video-thumb-img").show();
+	jQuery(".form-item-video-duration").show();
+	jQuery(".form-item-files-video-infographic-img").hide();
+	jQuery(".form-item-files-video-infographic-pdf").hide();
+	
+	jQuery(".form-item-video-embed-code").hide();
+	}
+	if((jQuery('input[name=video_is_file]:radio:checked').val())==2)
+	{
+	jQuery(".form-item-files-video-filename1").hide();
+	jQuery(".form-item-files-video-filename2").hide();
+	jQuery(".form-item-files-video-filename3").hide();
+	jQuery(".form-item-files-video-big-img").hide();
+	jQuery(".form-item-files-video-thumb-img").hide();
+	jQuery(".form-item-video-duration").hide();
+	jQuery(".form-item-video-embed-code").hide();
+	jQuery(".form-item-files-video-infographic-img").show();
+	jQuery(".form-item-files-video-infographic-pdf").show();
+	
+	}
+	jQuery("#edit-video-is-file-1").click( function(){
+		
+		jQuery(".form-item-files-video-infographic-img").hide();
+		jQuery(".form-item-files-video-infographic-pdf").hide();											
+		jQuery(".form-item-video-embed-code").hide();
+		jQuery(".form-item-files-video-big-img").show();
+		jQuery(".form-item-files-video-thumb-img").show();
+		jQuery(".form-item-video-duration").show();
+		
+		jQuery(".form-item-files-video-filename1").show();
+		jQuery(".form-item-files-video-filename2").show();
+		jQuery(".form-item-files-video-filename3").show();
+		
+	});
+	
+	jQuery("#edit-video-is-file-0").click( function(){
+													
+		jQuery(".form-item-video-embed-code").show();
+		jQuery(".form-item-files-video-filename1").hide();
+		jQuery(".form-item-files-video-filename2").hide();
+		jQuery(".form-item-files-video-filename3").hide();
+		jQuery(".form-item-files-video-big-img").show();
+		jQuery(".form-item-files-video-thumb-img").show();
+		jQuery(".form-item-video-duration").show();
+	
+		jQuery(".form-item-files-video-infographic-img").hide();
+		jQuery(".form-item-files-video-infographic-pdf").hide();
+		
+	});
+	jQuery("#edit-video-is-file-2").click( function(){
+													
+		jQuery(".form-item-video-embed-code").hide();
+		jQuery(".form-item-files-video-filename1").hide();
+		jQuery(".form-item-files-video-filename2").hide();
+		jQuery(".form-item-files-video-filename3").hide();
+		jQuery(".form-item-files-video-big-img").hide();
+		jQuery(".form-item-files-video-thumb-img").hide();
+		jQuery(".form-item-video-duration").hide();		
+		jQuery(".form-item-files-video-infographic-img").show();
+		jQuery(".form-item-files-video-infographic-pdf").show();
+	});
+
+});
